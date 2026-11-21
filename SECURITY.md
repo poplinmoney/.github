@@ -11,7 +11,9 @@ disagree, that one is authoritative.
 
 **In scope** — poplinmoney.com, and the account and payment surfaces it links to.
 
-**Out of scope** — our banking partners' own systems. Report those to the partner directly.
+**Out of scope** — our banking and payment partners’ own systems. Report those to the partner
+directly.
 
-This organisation hosts no public code, so reports concern the product surface rather than a
-repository. We do not run a paid bug-bounty programme.
+This organisation’s one public repository, [poplinmoney/agents](https://github.com/poplinmoney/agents),
+is documentation only, so reports concern the product surface rather than a repository. We do not
+run a paid bug-bounty programme.
